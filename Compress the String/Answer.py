@@ -1,7 +1,6 @@
 text = input()
 
 ans = []
-loop = 0
 
 while (len(text) > 0):
     
@@ -22,8 +21,6 @@ while (len(text) > 0):
     
     for b in range(count):
         text = text[1:]
-        
-    loop += 1
     
 for a in range(len(ans)):
     print (ans[a], end=" ")
