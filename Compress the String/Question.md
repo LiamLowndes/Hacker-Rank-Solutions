@@ -1,21 +1,17 @@
-#Compress the String!
+## Compress the String!
 
-You are given a string S Suppose a character '' occurs consecutively X times in the string. Replace these consecutive occurrences of the character 'c' with
-(X, c) in the string.
+You are given a string S Suppose a character '' occurs consecutively X times in the string. Replace these consecutive occurrences of the character 'c' with (X, c) in the string.
 
-##Input Format
-
+### Input Format
 A single line of input consisting of the string S.
 
-##Output Format
-
+### Output Format
 A single line of output consisting of the modified string.
 
-##Constraints
-
+### Constraints
 All the characters of S denote integers between 0 and 9
 
 1 <= |S| <= 10^4
 
-Link to problem on HackerRank: [Compress the String!] (https://www.hackerrank.com/challenges/compress-the-string/problem)
+Link to the problem on HackerRank: [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)
 Created by author: [@anuj_95](https://www.hackerrank.com/profile/anuj_95)
