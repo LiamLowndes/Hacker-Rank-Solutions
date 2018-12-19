@@ -21,7 +21,9 @@ The second line contains an integer, n.
 ### Constraints
 
 1 <= |s| <= 100
+
 1 <= n <= 10^12
+
 For 25% of the test cases, n <= 10^6
 
 ### Output Format
