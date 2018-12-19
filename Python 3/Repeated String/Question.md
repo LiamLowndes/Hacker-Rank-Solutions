@@ -10,8 +10,9 @@ Complete the repeatedString function in the editor below. It should return an in
 
 repeatedString has the following parameter(s):
 
-s: a string to repeat
-n: the number of characters to consider
+* s: a string to repeat
+
+* n: the number of characters to consider
 
 ### Input Format
 
