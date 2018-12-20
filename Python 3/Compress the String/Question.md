@@ -14,4 +14,5 @@ All the characters of S denote integers between 0 and 9
 1 <= |S| <= 10^4
 
 Link to the problem on HackerRank: [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)
+
 Created by author: [@anuj_95](https://www.hackerrank.com/profile/anuj_95)
