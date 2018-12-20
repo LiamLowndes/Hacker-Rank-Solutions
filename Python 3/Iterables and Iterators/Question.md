@@ -23,4 +23,5 @@ Note: The answer must be correct up to 3 decimal places.
 All the letters in the list are lowercase English letters.
 
 Link to the problem on Hacker Rank: [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
+
 Created by: [anuj_95](https://www.hackerrank.com/profile/anuj_95)
